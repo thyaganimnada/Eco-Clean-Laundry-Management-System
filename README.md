@@ -1,4 +1,4 @@
-# Eco-Clean Laundry Services - Console System
+# Eco-Clean Laundry Services - Management System
 
 A C++ based console application designed to manage laundry services efficiently. This project was developed as the final assignment for the **Console System Fundamental Programming** module at campus.
 
@@ -24,7 +24,7 @@ A C++ based console application designed to manage laundry services efficiently.
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/Eco-Clean-Laundry-Console-System.git](https://github.com/your-username/Eco-Clean-Laundry-Console-System.git)
+    git clone [https://github.com/your-username/Eco-Clean-Laundry-Management-System.git](https://github.com/your-username/Eco-Clean-Laundry-Management-System.git)
     ```
 2.  Open the `eco clean progeame.cpp` file in any C++ IDE (like Dev-C++, Code::Blocks, or Visual Studio).
 3.  Compile and run the program.
